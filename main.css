@@ -1,5 +1,7 @@
-footer{
-    display: flex;
-   align-content: flex-end;
-   background-color: lightblue;
+body {
+    bakcground-color: blue;
+}
+
+.card-body {
+    text-align: left;
 }
